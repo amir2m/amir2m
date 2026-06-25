@@ -42,13 +42,13 @@
 - Land my first Front-End Developer role
 
 ---
-
-//## 📊 GitHub Stats
+<!--
+## 📊 GitHub Stats
 
 //![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir2m&show_icons=true&theme=transparent)
 
 //![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir2m&layout=compact&theme=transparent)
 
-//---
-
+---
+-->
 ### 💻 "Code, Learn, Build, Repeat."
